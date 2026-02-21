@@ -1,0 +1,6 @@
+train: /home/sarantidis/Book_Publication/folds_heq/fold3/train
+val: /home/sarantidis/Book_Publication/folds_heq/fold3/val
+test: /home/sarantidis/Book_Publication/folds_heq/fold3/test
+
+nc: 1
+names: ['fire']
